@@ -28,8 +28,6 @@ Meilisearch helps you shape a delightful search experience in a snap, offering f
   <img src="assets/demo-dark.gif#gh-dark-mode-only" alt="demo-dark">
 </p>
 
-<!-- Go to [this demo]() to try Meilisearch! -->
-
 ## ✨ Features
 
 - **Search-as-you-type:** relevant search results in less than 50 milliseconds
